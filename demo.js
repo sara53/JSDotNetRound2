@@ -31,7 +31,7 @@
 /** ======== Functions
  *  == built in functions
  *  == user defines functions
- *      -- function statement (function declartion)
+ *      -- function statement (function declaration)
  *      -- function expression
  *      -- anonymous function
  *      -- callback function
@@ -192,4 +192,4 @@
 // var result = fname.split("").reverse().join("");
 // console.log(result);
 
-document.writeln("<h1 class='test'>Hello</h1>");
+// document.writeln("<h1 class='test'>Hello</h1>");
