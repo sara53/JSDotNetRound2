@@ -1,0 +1,92 @@
+div{
+    background-color: #eee;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+p{
+    background-color: #aaa;
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+button{
+    color:#fff;
+    display: block;
+    width: 170px;
+    border:none;
+    background-color: rgb(28, 25, 114);
+    padding: 10px;
+    cursor: pointer;
+    border-radius: 3px;
+    margin-bottom: 10px;
+}
+
+input[type='text']{
+    display: block;
+    margin:20px;
+    border-radius: 3px;
+    outline: 0;
+    border:none;
+    padding: 10px;
+}
+
+span{
+    display: block;
+    margin:20px;
+    padding: 5px;
+    width: 180px;
+    color:red;
+    
+}
+
+.jsClass{
+    background-color: rgb(22, 36, 100);
+    color:#fff;
+}
+
+p:first-of-type{
+    display: none;
+}
+
+.test{
+    background-color: orange;
+}
+.myP
+{
+    font-size: 25px;
+}
+
+.content{
+    letter-spacing: 10px;
+}
+
+a{
+    display: block;
+    margin-bottom: 5px;
+}
+
+img{
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+}
+
+.first{
+    width: 300px;
+    height: 300px;
+
+}
+
+.second{
+    width: 200px;
+    height: 200px;
+    background-color: green;
+}
+
+.third{
+    width: 100px;
+    height: 100px;
+    background-color: black;
+}
